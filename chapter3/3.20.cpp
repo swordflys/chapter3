@@ -10,7 +10,7 @@ int main()
 {
 	vector<int> vec;
 	int i;
-	cout << "请输入一组整数，以空格或回车间隔：" << endl;
+	cout << "请输入一整数：" << endl;
 	while (cin >> i)
 	{
 		vec.push_back(i);
